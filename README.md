@@ -1,6 +1,6 @@
 # Border-Gateway-Protocol
 
-A scientific article i wrote on "Security of the Border Gateway Protocol" and its presentation for my MSc course on Advanced Subjects Design at the National and Kapodistrian University of Athens. 
+A scientific article i wrote on "Security of the Border Gateway Protocol" and its presentation for my MSc course on Advanced Topics in Information and Computer Systems at the National and Kapodistrian University of Athens. 
 
 **Abstract**
 
